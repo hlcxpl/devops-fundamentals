@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: hlcxpl.github.io/devops-fundamentals/sitemap.xml
+Sitemap: https://hlcxpl.github.io/devops-fundamentals//sitemap.xml
